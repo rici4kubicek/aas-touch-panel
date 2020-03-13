@@ -88,21 +88,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPERIYQF
 
+[Document4]
+DocumentPath=AAS_touch_board_rev1_1_PANEL.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SKIOLDNF
+
 [SearchPath1]
 Path=*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=ProjectRevision
-Value=1.1
+Name=ProjecTevisionDate
+Value=14
 
 [Parameter2]
 Name=ProjectNameText
 Value=AAS touch board
 
 [Parameter3]
-Name=ProjecTevisionDate
-Value=14
+Name=ProjectRevision
+Value=1.1
 
 [Configuration1]
 Name=Default Configuration
@@ -619,21 +636,6 @@ OutputName8=Specctra Design PCB
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=Orcad v7 Capture Design
-OutputName9=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-OutputType10=P-CAD ASCII
-OutputName10=P-CAD ASCII (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=P-CAD V16 Schematic Design
-OutputName11=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
